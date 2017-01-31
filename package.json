@@ -6,6 +6,10 @@
   "scripts": {
     "start": "electron main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishirmax/electron-datetime.git"
+  },
   "author": "shishir",
   "license": "ISC",
   "dependencies": {
